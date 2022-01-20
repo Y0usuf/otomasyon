@@ -5,14 +5,10 @@
 
 <body id="kt_body" class="header-fixed header-tablet-and-mobile-fixed aside-enabled aside-fixed dark-mode">
 
-
-
     <div class="d-flex flex-column flex-root">
         <div class="page d-flex flex-row flex-column-fluid">
 
             <?php $this->load->view("partials/aside"); ?>
-
-            <?php $this->load->view("partials/rightAside"); ?>
 
             <div class="wrapper d-flex flex-column flex-row-fluid" id="kt_wrapper">
 
@@ -31,6 +27,8 @@
                 </div>
 
                 <!-- Content -->
+
+                <?php $this->load->view("partials/rightAside"); ?>
 
                 <?php $this->load->view('partials/footer'); ?>
 
