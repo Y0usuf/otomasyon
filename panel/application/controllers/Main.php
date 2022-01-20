@@ -6,6 +6,7 @@ class Main extends CI_Controller
 	{
 		parent::__construct();
 		$this->viewFolder = 'layouts/main_v';
+		$this->pageTitle = 'Ana sayfa';
 	}
 
 	public function index()
@@ -13,9 +14,7 @@ class Main extends CI_Controller
 		$viewData = new stdClass;
 		$viewData->viewFolder = $this->viewFolder;
 		$viewData->subViewFolder = 'show';
-		$viewData->data = [
-			'title' => 'Ana sayfa'
-		];
+		$viewData->pageTitle = $this->pageTitle;
 
 		$this->load->view("{$viewData->viewFolder}/{$viewData->subViewFolder}/index", $viewData);
 	}

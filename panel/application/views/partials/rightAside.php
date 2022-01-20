@@ -99,7 +99,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-success rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo1.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo1.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo1" class="btn btn-sm btn-success shadow">Demo 1</a>
@@ -113,7 +113,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo2.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo2.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo2" class="btn btn-sm btn-success shadow">Demo 2</a>
@@ -127,7 +127,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo3.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo3.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo3" class="btn btn-sm btn-success shadow">Demo 3</a>
@@ -141,7 +141,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo4.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo4.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo4" class="btn btn-sm btn-success shadow">Demo 4</a>
@@ -155,7 +155,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo5.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo5.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo5" class="btn btn-sm btn-success shadow">Demo 5</a>
@@ -169,7 +169,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo6.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo6.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo6" class="btn btn-sm btn-success shadow">Demo 6</a>
@@ -183,7 +183,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo7.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo7.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo7" class="btn btn-sm btn-success shadow">Demo 7</a>
@@ -197,7 +197,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo8.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo8.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo8" class="btn btn-sm btn-success shadow">Demo 8</a>
@@ -211,7 +211,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo9.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo9.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo9" class="btn btn-sm btn-success shadow">Demo 9</a>
@@ -225,7 +225,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo10.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo10.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo10" class="btn btn-sm btn-success shadow">Demo 10</a>
@@ -239,7 +239,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo11.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo11.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo11" class="btn btn-sm btn-success shadow">Demo 11</a>
@@ -253,7 +253,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo12.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo12.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo12" class="btn btn-sm btn-success shadow">Demo 12</a>
@@ -267,7 +267,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo13.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo13.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo13" class="btn btn-sm btn-success shadow">Demo 13</a>
@@ -281,7 +281,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo14.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo14.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo14" class="btn btn-sm btn-success shadow">Demo 14</a>
@@ -295,7 +295,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo15.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo15.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo15" class="btn btn-sm btn-success shadow">Demo 15</a>
@@ -309,7 +309,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo16.png" alt="demo" class="w-100" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo16.png" alt="demo" class="w-100" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <a href="https://preview.keenthemes.com/metronic8/demo16" class="btn btn-sm btn-success shadow">Demo 16</a>
@@ -323,7 +323,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo17.png" alt="demo" class="w-100 opacity-25" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo17.png" alt="demo" class="w-100 opacity-25" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <div class="badge badge-white px-6 py-4 fw-bold fs-base shadow">Coming soon</div>
@@ -337,7 +337,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo18.png" alt="demo" class="w-100 opacity-25" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo18.png" alt="demo" class="w-100 opacity-25" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <div class="badge badge-white px-6 py-4 fw-bold fs-base shadow">Coming soon</div>
@@ -351,7 +351,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo19.png" alt="demo" class="w-100 opacity-25" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo19.png" alt="demo" class="w-100 opacity-25" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <div class="badge badge-white px-6 py-4 fw-bold fs-base shadow">Coming soon</div>
@@ -365,7 +365,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo20.png" alt="demo" class="w-100 opacity-25" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo20.png" alt="demo" class="w-100 opacity-25" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <div class="badge badge-white px-6 py-4 fw-bold fs-base shadow">Coming soon</div>
@@ -379,7 +379,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo21.png" alt="demo" class="w-100 opacity-25" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo21.png" alt="demo" class="w-100 opacity-25" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <div class="badge badge-white px-6 py-4 fw-bold fs-base shadow">Coming soon</div>
@@ -393,7 +393,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo22.png" alt="demo" class="w-100 opacity-25" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo22.png" alt="demo" class="w-100 opacity-25" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <div class="badge badge-white px-6 py-4 fw-bold fs-base shadow">Coming soon</div>
@@ -407,7 +407,7 @@
                                 <!--begin::Demo-->
                                 <div class="overlay overflow-hidden position-relative border border-4 border-gray-200 rounded">
                                     <div class="overlay-wrapper">
-                                        <img src="assets/media/demos/demo23.png" alt="demo" class="w-100 opacity-25" />
+                                        <img src="<?php echo base_url() ?>assets/media/demos/demo23.png" alt="demo" class="w-100 opacity-25" />
                                     </div>
                                     <div class="overlay-layer bg-dark bg-opacity-10">
                                         <div class="badge badge-white px-6 py-4 fw-bold fs-base shadow">Coming soon</div>
